@@ -1,0 +1,11 @@
+.logo {
+    width:auto; 
+    height:100px;
+}
+.couleur{
+    background-color: lightgrey;
+}
+.title{
+    font-weight: bold;
+}
+.body{ background-color: lightgrey;}

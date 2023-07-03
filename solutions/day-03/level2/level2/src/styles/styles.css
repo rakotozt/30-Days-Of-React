@@ -1,0 +1,14 @@
+.big-box{
+    background-color:lightblue;
+}
+
+.inp{
+    border:none;
+}
+.butt{
+    background-color:red;
+}
+
+.container.body-container{
+    padding:10px;
+  }
